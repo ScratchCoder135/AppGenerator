@@ -12,3 +12,10 @@ It's an app compiled with python.Used to generate blank templates and apps.
 - Click app template#2
 - Copy the path and open with VSCode
 - You'll see the react js folder!
+
+## App List:
+- Web3
+- Node
+- Python
+- Executable
+- React
